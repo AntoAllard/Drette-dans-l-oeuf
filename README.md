@@ -1,7 +1,7 @@
 # Drette-dans-l'oeuf
 Restaurant déjeuner cochon
 
-## Smoothie
+## Smoothies
 _Ananas_
 
 **Fraises**
